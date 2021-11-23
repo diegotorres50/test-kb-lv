@@ -2,7 +2,7 @@
 
 ## Koombea Challenge - Contact Importer by means of Laravel
 
-This is a technical test to import contacts keeping in mind some rules that you may read here.
+This is a technical test to import contacts keeping in mind some rules that you may read [here](RFC.md).
 
 On the other hand, you may be interested to try this demo out. 
 
